@@ -21,7 +21,7 @@ st.markdown("""
 st.title("🛍️ AI Sales Trends Intelligence Dashboard")
 
 # Load model and data
-model = joblib.load("Sales_Trends_prediction_model_1.pkl")
+model = joblib.load("Sales_Trends_prediction_model_gb.pkl")
 df = pd.read_csv("Multiclass Clothing Sales Dataset.csv")
 
 # ----------------------- Prediction Section -----------------------
