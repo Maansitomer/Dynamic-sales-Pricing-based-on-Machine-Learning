@@ -6,4 +6,4 @@ scikit-learn
 xgboost
 matplotlib
 seaborn
-gradient boosting
+gradient boost
